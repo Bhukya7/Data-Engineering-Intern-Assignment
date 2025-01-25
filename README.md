@@ -42,13 +42,11 @@ Make sure to set your MongoDB connection URI in api.py. Replace 'your_mongodb_ur
 
 For deployment instructions, consider using platforms like Heroku or Vercel. Follow their documentation for deploying Python applications.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by various open-source projects and tutorials on Python logging and data processing.
 
-Conclusion
+## Conclusion
 This README.md file provides a comprehensive overview of your Log Analyzer project, including installation instructions, usage examples, and feature descriptions. It will help users understand how to set up and use your tool effectively
+
+The following requirement output is stored in the output.csv file
